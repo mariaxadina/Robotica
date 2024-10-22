@@ -36,6 +36,8 @@ La finalizarea încărcării toate led-urile vor clipi simultan de 3 ori, iar ap
 Led-ul pentru disponibilitate se face verde.
 Dacă oricând de la pornirea încărcării până la finalizarea acesteia este apăsat lung (min 1s) butonul de stop, încărcarea se întrerupe prin animația de final (toate led-urile clipesc de 3 ori), iar led-ul pentru disponibilitate devine verde.
 
+## Video
+[Video](https://github.com/mariaxadina/Robotica---Proiect-1/blob/main/Tema1_ATMEGA328P/IMG_0393.mov?raw=true)
 
 Proiect realizat de:
 Topliceanu Maria-Adina
