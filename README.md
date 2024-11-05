@@ -2,7 +2,6 @@
  <summary>
   EV Charger
  </summary>
- # Sistem de încărcare a unui vehicul electric
 
 ## Introducere
  Proiectul de față își propune să simuleze funcționarea unei stații de încărcare pentru un vehicul electric, utilizând LED-uri și butoane pentru a ilustra diferitele stadii ale procesului de încărcare. Această simulare are scopul de a reproduce cât mai fidel procesele care au loc într-o stație de încărcare reală, de la inițierea încărcării, monitorizarea progresului, până la finalizarea acesteia, asigurându-se că toate componentele sunt sincronizate corect.
