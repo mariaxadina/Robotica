@@ -27,7 +27,7 @@
   <img src="https://github.com/mariaxadina/Robotica/blob/main/Tema_1/tinkercad.png" width="300"/>
 </p>
 
-## Montaj electric
+## Montaj Electric
 <p>
   <img src="https://github.com/mariaxadina/Robotica/blob/main/Tema_1/image00001.jpeg" width="300"/>
   <img src="https://github.com/mariaxadina/Robotica/blob/main/Tema_1/image00002.jpeg" width="300"/>
