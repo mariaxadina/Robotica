@@ -111,3 +111,56 @@ Topliceanu Maria-Adina
 
 Grupa 362
 </details>
+<details>
+  <summary>Quick Game</summary>
+
+## Descriere
+Această temă reprezintă un joc competitiv de reflex pentru doi jucători. Scopul fiecărui jucător este să apese cât mai rapid butonul asociat culorii afișate pe LED-ul RGB. Punctajul este afișat pe un LCD și actualizat pe parcursul jocului. La final, jocul indică câștigătorul și scorul final.
+
+## Componente utilizate
+- *6x LED-uri* (2 grupuri de câte 3 LED-uri, fiecare grup având culori diferite)
+- *2x LED RGB* (1 pentru fiecare jucător)
+- *6x butoane* (3 pentru fiecare jucător)
+- *1x LCD*
+- *1x servomotor*
+- *2x Breadboard*
+- *Fire de legătură*
+- *2x Arduino Uno*
+
+## Cerințe
+1. *Inițializare*
+   - La pornirea jocului, un mesaj de bun venit este afișat pe LCD.
+   - Jocul poate fi pornit printr-un buton dedicat sau apăsarea unui buton dintre cele existente.
+
+2. *Desfășurarea Rundelor*
+   - Fiecare jucător are 3 butoane și un LED RGB. LED-ul RGB afișează o culoare, iar jucătorul trebuie să apese rapid butonul corespunzător.
+   - Răspunsul corect aduce puncte, iar răspunsul mai rapid oferă punctaj mai mare.
+   - La finalul fiecărei runde, punctajul este actualizat pe LCD.
+
+3. *Finalizarea Jocului*
+   - Servomotorul indică progresul jocului. O rotație completă marchează sfârșitul jocului.
+   - LCD-ul afișează câștigătorul și scorul final, apoi revine la ecranul de start.
+  
+## Bonusuri implementate
+- *Animație pe LCD* la pornirea jocului.
+- *Numele jucătorilor* introduse prin interfața serială.
+
+## Poze cu implementarea pe breadboard
+<p>
+  <img src="https://github.com/mariaxadina/Robotica/blob/main/Tema_3/media/1.JPG?raw=true" width="300"/>
+  <img src="https://github.com/mariaxadina/Robotica/blob/main/Tema_3/media/2.JPG?raw=true" width="300"/>
+  <img src="https://github.com/mariaxadina/Robotica/blob/main/Tema_3/media/3.JPG?raw=true" width="300"/>
+  <img src="https://github.com/mariaxadina/Robotica/blob/main/Tema_3/media/4.JPG?raw=true" width="300"/>
+  <img src="https://github.com/mariaxadina/Robotica/blob/main/Tema_3/media/5.JPG?raw=true" width="300"/>
+</p>
+
+## Schema electrică
+<img src="https://github.com/mariaxadina/Robotica/blob/main/Tema_3/media/schema.jpg?raw=true" width="300"/>
+
+## Video
+<a href="https://github.com/mariaxadina/Robotica/blob/main/Tema_3/media/video.mp4?raw=true" download="Tema3_QuickTime.mp4">Descarcă video Tema 3</a>
+
+## Publicare
+Codul proiectului se găsește pe GitHub și include toate detaliile necesare pentru replicarea proiectului.
+
+</details>
