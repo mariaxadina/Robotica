@@ -158,7 +158,7 @@ Această temă reprezintă un joc competitiv de reflex pentru doi jucători. Sco
 <img src="https://github.com/mariaxadina/Robotica/blob/main/Tema_3/media/schema.jpg?raw=true" width="300"/>
 
 ## Video
-<a href="https://github.com/mariaxadina/Robotica/blob/main/Tema_3/media/video.mp4?raw=true" download="Tema3_QuickTime.mp4">Descarcă video Tema 3</a>
+[Video](https://github.com/mariaxadina/Robotica/blob/main/Tema_3/media/video.mp4?raw=true)
 
 ## Publicare
 Codul proiectului se găsește pe GitHub și include toate detaliile necesare pentru replicarea proiectului.
