@@ -177,6 +177,7 @@ Codul proiectului se găsește pe GitHub și include toate detaliile necesare pe
 
 ## Hardware Design
 ### Components List 
+### Circuit Schematic  
 
 ## Software Design
 ### Development Environment  
